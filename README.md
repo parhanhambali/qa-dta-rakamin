@@ -1,2 +1,2 @@
 # qa-dta-rakamin
-Tugas terdapat di folder tugasEnam lalu klik folder cucumber
+Tugas terdapat di folder src\test\java\tugasEnam\cucumber
