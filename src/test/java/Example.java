@@ -3,7 +3,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Login {
+public class Example {
     @Test // Text untuk running script dibawah ini
     public void open_browser() {
         WebDriver driver;
